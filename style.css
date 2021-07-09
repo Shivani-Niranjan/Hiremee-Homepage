@@ -10,7 +10,8 @@
     background-position: center;
     background-size: cover;
     position: relative ;
-    overflow: hidden;  
+    overflow: hidden;
+    zoom: normal;
 }
 .square-1{
     width: 417px;
